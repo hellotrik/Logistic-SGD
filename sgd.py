@@ -1,6 +1,5 @@
 from math import exp
 import random
-from collections.__main__ import Point
 
 # TODO: Calculate logistic
 def logistic(x):
